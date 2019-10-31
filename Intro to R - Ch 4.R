@@ -6,7 +6,7 @@
 ## Variable Assignment Examples
 
 # Numeric
-x = 7
+x = 777
 
 # Use better assignment operator
 y <- 8
@@ -126,6 +126,7 @@ Name3 <- "Yu"
 Name <- c(Name1, Name2, Name3)
 
 name <- c("Mike", "Lucy", "John") 
+
 
 name
 name[1]
